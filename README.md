@@ -1,6 +1,6 @@
 # psd-text-importer
 
-This script is designed to parse data from an CSV file to a PSD file as a text layer. For the layout generation, illustration and frame layers can be added.
+This script is designed to parse data from an CSV file to a PSD file as a text layer. 
 
 __To Do:__
 
